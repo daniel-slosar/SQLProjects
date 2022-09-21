@@ -1,1 +1,1 @@
-# SQLProjects
+# Hotel Database

@@ -1,1 +1,1 @@
-# SQLProjects
+# Hardware Store Database

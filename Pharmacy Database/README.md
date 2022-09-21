@@ -1,1 +1,1 @@
-# SQLProjects
+# Pharmacy Database
